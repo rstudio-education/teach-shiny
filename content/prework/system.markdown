@@ -1,7 +1,7 @@
 ---
 title: Install/upgrade software
 author: ''
-date: "2019-01-04"
+date: "2019-01-08"
 slug: system
 categories: []
 tags: []
@@ -26,7 +26,7 @@ getRversion()
 ```
 
 ```
-## [1] '3.5.1'
+## [1] '3.5.2'
 ```
 
 
