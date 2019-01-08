@@ -1,0 +1,42 @@
+---
+title: Install R packages
+author: ''
+date: "`r Sys.Date()`"
+slug: packages
+categories: []
+tags: []
+linktitle: "Install R packages"
+menu:
+  prework:
+    parent: "Local setup"
+    weight: 3
+toc: yes
+type: docs
+---
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(warning = FALSE, message = FALSE, comment = "#", eval = FALSE, purl = FALSE)
+```
+
+For this workshop, you'll need to install several R packages. This page will guide you through installing the packages we will use. 
+
+To do so, please run the following in the your R console:
+
+```{r cran_pkgs, purl = TRUE, eval = TRUE}
+from_cran <- c(
+  "DT", 
+  "glue", 
+  "flexdashboard", 
+  "rmarkdown",
+  "rsconnect",
+  "shiny", 
+  "shinydashboard", 
+  "shinythemes", 
+  "tidyverse",
+  "xaringan"
+  )
+```
+
+```{r install_cran, purl = TRUE}
+install.packages(from_cran, dependencies = TRUE)
+```
