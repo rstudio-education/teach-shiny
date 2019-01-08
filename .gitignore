@@ -6,3 +6,4 @@ resources/
 .Rhistory
 .RData
 .Ruserdata
+*.key
