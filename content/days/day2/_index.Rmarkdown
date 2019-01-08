@@ -18,7 +18,7 @@ The following is the tentative outline for Day 2 of Shiny Train-the-Trainer work
 - 09:00–09:45 - Starting a workshop
 	- Let them eat cake (first)
 	- How to pick content, and adjust to workshop focus/level to audience
-	- Hands on: Pair up and run an impromptu first 5 mins of worksop with your favourite go to app
+	- Hands on: Get in groups of 3 and run an impromptu first 3 mins of a workshop with your favourite go to app
 
 - 09:45-10:30 - Content outline
 	- Writing learning objectives
@@ -58,8 +58,8 @@ The following is the tentative outline for Day 2 of Shiny Train-the-Trainer work
 	- Deployment options: how much you can realistically teach about them
 	- Making a performant Shiny app + where to find resources on this
 
-- 15:30–16:00 - Break
+- 15:30–16:00 - Break + prep
 
-- 16:00–16:45 - Prep teaching demo
+- 16:00–16:15 - Prep teaching demo
 
-- 16:45-17:30 - Do teaching demo
+- 16:15-17:30 - Do teaching demo
