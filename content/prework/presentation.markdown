@@ -2,7 +2,7 @@
 title: Presentation
 author: ''
 date: "2019-01-08"
-slug: publish
+slug: presentation
 categories: []
 tags: []
 linktitle: "Presentation"

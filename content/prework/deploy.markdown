@@ -2,7 +2,7 @@
 title: Deployment
 author: ''
 date: "2019-01-08"
-slug: publish
+slug: deployment
 categories: []
 tags: []
 linktitle: "Deployment"

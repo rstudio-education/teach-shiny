@@ -2,7 +2,7 @@
 title: Deployment
 author: ''
 date: "`r Sys.Date()`"
-slug: publish
+slug: deployment
 categories: []
 tags: []
 linktitle: "Deployment"

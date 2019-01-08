@@ -2,7 +2,7 @@
 title: Reading
 author: ''
 date: "2019-01-08"
-slug: cloud
+slug: reading
 categories: []
 tags: []
 linktitle: "Reading"
