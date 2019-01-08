@@ -20,7 +20,7 @@ This site is the official home of all information related to the Shiny Train-the
 Please use the menus to the left to guide you through all the workshop set-up instructions, and notice the menu on the right with links for:
  
 <ul class="fa-ul">
-    <li><i class="fa-li fas fa-question-circle"></i><a href="INSERT LINK" target="_blank">Get help before the workshop</a></li>
+    <li><i class="fa-li fas fa-question-circle"></i><a href="https://community.rstudio.com/t/information-for-the-shiny-train-the-trainer-workshop-2019/21116" target="_blank">Get help before the workshop</a></li>
     <li><i class="fa-li fas fa-bug"></i><a href="https://github.com/rstudio-education/teach-shiny/issues" target="_blank">Report issues</a></li>
     <li><i class="fa-li fas fa-edit"></i><a href="INSERT LINK" target="_blank">Suggest an edit</a></li>
 </ul>
