@@ -2,9 +2,9 @@
 
 The following is the tentative outline for Shiny Train-the-Trainer workshop at rstudio::conf 2019.
 
-- 09:00–09:45 - Start with cake
-	- How to deliver the cake first
-	- How to pick content, and adjust to workshop level
+- 09:00–09:45 - Starting a workshop
+	- Let them eat cake (first)
+	- How to pick content, and adjust to workshop focus/level to audience
 	- Hands on: Pair up and run an impromptu first 5 mins of worksop with your favourite go to app
 
 - 09:45-10:30 - Content outline
@@ -16,17 +16,16 @@ The following is the tentative outline for Shiny Train-the-Trainer workshop at r
 		- full day
 		- 2 days
 	- Sample curricula
-	- Customizing workshop curricula for client needs
 	- Hands on: Write learning objectives for one of the time periods, one you're most likely to teach
 
 - 10:30–11:00 - Break
 
-- 11:00–11:45 - Content delivery
+- 11:00–11:45 - Content delivery and computing environment
 	- Slides: R Markdown vs. Keynote vs. something else
 	- Code to deliver: GitHub, Dropbox, etc. 
 	- Livecoding and RStudio setup
 	- Computing environment, RStudio Cloud
-	- Hands on: None
+	- Hands on: Set up an RStudio Cloud workspace, place your favourite app, invite partner
 
 - 12:30–14:00 - Lunch
 
@@ -51,4 +50,3 @@ The following is the tentative outline for Shiny Train-the-Trainer workshop at r
 - 16:00–16:45 - Prep teaching demo
 
 - 16:45-17:30 - Do teaching demo
-
