@@ -1,7 +1,7 @@
 ---
 title: Choose a setup
 author: ''
-date: "2019-01-08"
+date: "2019-01-09"
 slug: options
 categories: []
 tags: []
