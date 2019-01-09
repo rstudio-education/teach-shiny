@@ -2,6 +2,7 @@
 
 The following is the tentative outline for Shiny Train-the-Trainer workshop at rstudio::conf 2019.
 
+
 - 09:00–09:45 - Starting a workshop
 	- Let them eat cake (first)
 	- How to pick content, and adjust to workshop focus/level to audience
