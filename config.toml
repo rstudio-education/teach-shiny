@@ -272,7 +272,7 @@ enableGitInfo = false
 [[menu.main]]
   pre = "<i class=\"fab fa-github fa-lg\"></i>"
   name = ""
-  url = "https://github.com/rstudio-education/rmarkdown-extensions-conf19"
+  url = "https://github.com/rstudio-education/teach-shiny"
   weight = 4
 
 
