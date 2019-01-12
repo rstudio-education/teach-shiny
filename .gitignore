@@ -6,3 +6,4 @@ resources/
 .RData
 .Ruserdata
 *.key
+teach-shiny-attendees.csv
