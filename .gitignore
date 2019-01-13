@@ -7,3 +7,4 @@ resources/
 .Ruserdata
 *.key
 teach-shiny-attendees.csv
+rsconnect/
