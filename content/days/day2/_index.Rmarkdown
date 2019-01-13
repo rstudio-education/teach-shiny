@@ -13,12 +13,17 @@ toc: yes
 type: docs
 ---
 
-The following is the tentative outline for Day 2 of Shiny Train-the-Trainer workshop at rstudio::conf 2019.
+The following is the tentative outline for Day 2 of Shiny Train-the-Trainer 
+workshop at rstudio::conf 2019.
 
-- 09:00–09:45 - Starting a workshop
-	- Let them eat cake (first)
-	- How to pick content, and adjust to workshop focus/level to audience
-	- Hands on: Get in groups of 3 and run an impromptu first 3 mins of a workshop with your favourite go to app
+- 09:00 - 09:05 - Welcome
+
+- 09:00 – 09:45 - [Getting started (on the right foot)](../../materials/01-getting-started/01-getting-started.pdf)
+	- Start with cake
+	- Skip baby steps
+	- Hide the veggies
+	- Your turn: Impromptu workshop! Get in groups of three and run the first 
+	three minutes of Shiny workshop for an audience of Shiny novices.
 
 - 09:45-10:30 - Content outline
 	- Writing learning objectives
