@@ -25,7 +25,7 @@ workshop at rstudio::conf 2019.
 	- Your turn: Impromptu workshop! Get in groups of three and run the first 
 	three minutes of Shiny workshop for an audience of Shiny novices.
 
-- 09:45-10:30 - Content outline
+- 09:45-10:30 - [Outlining content (that lines up with learning objectives)](INSERT LINK TO PDF)
 	- Writing learning objectives
 	- What to cover if you have 
 		- 1 hour
