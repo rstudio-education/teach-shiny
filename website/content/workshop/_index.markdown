@@ -46,6 +46,7 @@ Coffee break between 10:30 - 11:00.
 🏃‍♀ Sprinkle interactivity  
 🏗 Scaffold your exercises  
 🚩 Write a sequence of three exercises that build on each other
+🚩 Deploy an app to RStudio Connect
 
 ### 12:30 - 14:00 - Lunch
 
@@ -61,13 +62,10 @@ Coffee break between 15:30 - 16:00.
 
 #### > 05 - [Troubleshooting (the challenging bits)](../../materials/05-troubleshooting/05-troubleshooting.pdf)
 
-<!--
-- Testing and debugging 
-	- Writing a Shiny "reprex"
-	- Using the reactlog
-- Deployment options: how much you can realistically teach about them
-- Making a performant Shiny app + where to find resources on this
--->
+Write robust code  
+Use debugging tools  
+Teach common errors  
+🚩 Debug apps with common student mistakes
 
 #### > 06 - Teaching demo
 
