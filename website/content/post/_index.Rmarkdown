@@ -1,0 +1,16 @@
+---
+title: Au revoir!
+author: ''
+date: "`r Sys.Date()`"
+slug: postworkshop
+categories: []
+tags: []
+menu:
+  post:
+    name: Post-workshop
+    weight: 1
+toc: yes
+type: docs
+---
+
+TBA
