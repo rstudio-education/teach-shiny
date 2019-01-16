@@ -24,35 +24,36 @@ Day 1 of this workshop, titled "How to Teach All the Things! *like Shiny and the
 
 Coffee break between 10:30 - 11:00.
 
-#### Welcome
+#### > 00 - Welcome
 
-#### [Starting (on the right foot)](../../materials/01-starting/01-starting.pdf)
+#### > 01 - [Starting (on the right foot)](../../materials/01-starting/01-starting.pdf)
 
 🍰 Start with cake  
 👶 Skip baby steps  
 🥦 Hide the veggies  
 🚩 Create, teach, and give / receive feedback on first three minutes of a Shiny workshop
 
-#### [Outlining (learning objectives and curricula)](../../materials/02-outlining/02-outlining.pdf)
+#### > 02 - [Outlining (learning objectives and curricula)](../../materials/02-outlining/02-outlining.pdf)
 
 👩‍💻 Know your audience  
 🎯 Write learning objectives  
 ⏳ Plan your time  
 🚩 Write learning objectives for a workshop you're likely to teach to Shiny novices
 
-#### [Scaffolding (information and activities)](../../materials/03-scaffolding/03-scaffolding.pdf)
+#### > 03 - [Structuring (information and activities)](../../materials/03-scaffolding/03-structuring.pdf)
 
-- Writing good exercises  
-- Planning exercises at various levels  
-🚩 Give one exercise, ask for a lower and a higher complexity level version.
+🎨 use visual clues
+🏃‍♀ ♀️ sprinkle interactivity
+🏗 caffold your exercises
 
-### 12:30 - 14:00 - Lunch
+🚩 Write a sequence of three exercises that build on each other
+-## 12:30 - 14:00 - Lunch
 
 ### Afternoon
 
 Coffee break between 15:30 - 16:00.
 
-#### [Delivering (materials with little friction)](../../materials/04-delivering/04-delivering.pdf)
+#### > 04 - [Delivering (materials with little friction)](../../materials/04-delivering/04-delivering.pdf)
 
 - Slides: R Markdown vs. Keynote vs. something else
 - Code to deliver: GitHub, Dropbox, etc. 
@@ -60,7 +61,7 @@ Coffee break between 15:30 - 16:00.
 - Computing environment, RStudio Cloud  
 🚩 Set up an RStudio Cloud workspace, place your favourite app, invite partner
 
-#### [Troubleshooting (the challenging bits)](../../materials/05-troubleshooting/05-troubleshooting.pdf)
+#### > 05 - [Troubleshooting (the challenging bits)](../../materials/05-troubleshooting/05-troubleshooting.pdf)
 
 - Testing and debugging 
 	- Writing a Shiny "reprex"
@@ -68,12 +69,9 @@ Coffee break between 15:30 - 16:00.
 - Deployment options: how much you can realistically teach about them
 - Making a performant Shiny app + where to find resources on this
 
-#### Prep teaching demo
+#### > 06 - Teaching demo
 
-Take 20 minutes to prep your teaching demp
+Prep your teaching demo (20 minutes)
+Then, split into two groups, and present and exhange feedback (60 minutes)
 
-#### Do teaching demo
-
-Split into two groups, and present and exhange feedback for 60 minutes
-
-#### Wrap up
+#### > 07 - Wrap up
