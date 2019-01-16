@@ -24,7 +24,7 @@ Day 1 of this workshop, titled "How to Teach All the Things! *like Shiny and the
 
 Coffee break between 10:30 - 11:00.
 
-#### > 00 - Welcome
+#### > 00 - [Welcome](../../materials/00-welcome.pdf)
 
 #### > 01 - [Starting (on the right foot)](../../materials/01-starting/01-starting.pdf)
 
