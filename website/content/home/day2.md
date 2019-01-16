@@ -5,23 +5,23 @@ feature:
 - description: How to start a workshop and serve the cake first. How to pick content, and adjust to workshop focus/level to audience.
   icon: birthday-cake
   icon_pack: fas
-  name: Starting a workshop
+  name: Starting
 - description: Writing learning objectives and content outline for workshops of various lengths.
   icon: bullseye
   icon_pack: fas
-  name: Content outline
-- description: Options for content delivery and computing environment.
+  name: Outlining
+- description: Structuring information delivery and activities.
   icon: box
   icon_pack: fas
-  name: Content delivery
-- description: Writing good exercises and planning exercises at various levels
+  name: Structuring
+- description: Delivering materials with little friction.
   icon: hands
   icon_pack: fas
-  name: Hands on
-- description: Teaching the challenging bits -- testing, debugging, performance, deployment
+  name: Delivering
+- description: Teaching the challenging bits -- testing, debugging, performance, deployment.
   icon: road
   icon_pack: fas
-  name: Roads less travelled
+  name: Troubleshooting
 - description: Prepare and teach your own demo!
   icon: microphone
   icon_pack: fas
