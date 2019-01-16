@@ -61,15 +61,17 @@ Coffee break between 15:30 - 16:00.
 
 #### > 05 - [Troubleshooting (the challenging bits)](../../materials/05-troubleshooting/05-troubleshooting.pdf)
 
+<!--
 - Testing and debugging 
 	- Writing a Shiny "reprex"
 	- Using the reactlog
 - Deployment options: how much you can realistically teach about them
 - Making a performant Shiny app + where to find resources on this
+-->
 
 #### > 06 - Teaching demo
 
-Prep your teaching demo (20 minutes)
-Then, split into two groups, and present and exhange feedback (60 minutes)
+`r emo::ji("writing_hand")` Prep your teaching demo (20 minutes)  
+`r emo::ji("microphone")` Then, split into two groups, and present and exhange feedback (60 minutes)  
 
 #### > 07 - Wrap up
