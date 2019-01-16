@@ -42,12 +42,12 @@ Coffee break between 10:30 - 11:00.
 
 #### > 03 - [Structuring (information and activities)](../../materials/03-scaffolding/03-structuring.pdf)
 
-🎨 use visual clues
-🏃‍♀ ♀️ sprinkle interactivity
-🏗 caffold your exercises
-
+🎨 Use visual clues  
+🏃‍♀ Sprinkle interactivity  
+🏗 Scaffold your exercises  
 🚩 Write a sequence of three exercises that build on each other
--## 12:30 - 14:00 - Lunch
+
+### 12:30 - 14:00 - Lunch
 
 ### Afternoon
 
