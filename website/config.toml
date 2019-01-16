@@ -6,7 +6,7 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "/"
+baseurl = "http://teach-shiny.rbind.io/"
 
 # Title of your site
 title = "Shiny Train-the-Trainer Certification Workshop"
