@@ -56,7 +56,7 @@ Coffee break between 15:30 - 16:00.
 #### > 04 - [Delivering (materials with little friction)](../../materials/04-delivering/04-delivering.pdf)
 
 📂 Use RStudio projects  
-💻 Standardize computing environment
+💻 Standardize computing environment  
 🚩 Set up an RStudio Cloud workspace and invite your partner
 
 #### > 05 - [Troubleshooting (the challenging bits)](../../materials/05-troubleshooting/05-troubleshooting.pdf)
