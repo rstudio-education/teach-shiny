@@ -40,7 +40,7 @@ Coffee break between 10:30 - 11:00.
 ⏳ Plan your time  
 🚩 Write learning objectives for a workshop you're likely to teach to Shiny novices
 
-#### > 03 - [Structuring (information and activities)](../../materials/03-scaffolding/03-structuring.pdf)
+#### > 03 - [Structuring (information and activities)](../../materials/03-structuring/03-structuring.pdf)
 
 🎨 Use visual clues  
 🏃‍♀ Sprinkle interactivity  
