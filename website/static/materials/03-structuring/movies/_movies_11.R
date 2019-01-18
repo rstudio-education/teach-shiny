@@ -1,6 +1,7 @@
 # Load packages ----------------------------------------------------------------
 library(shiny)
 library(tidyverse)
+library(tools)
 
 # Load data --------------------------------------------------------------------
 load("movies.Rdata")
@@ -73,7 +74,7 @@ ui <- fluidPage(
                          choices = c("Documentary", "Feature Film", "TV Movie"),
                          selected = "Feature Film"),
       
-      # Select sample size ----------------------------------------------------
+      # Select sample size -----------------------------------------------------
       numericInput(inputId = "n_samp", 
                    label = "Sample size:", 
                    min = 1, max = nrow(movies), 
