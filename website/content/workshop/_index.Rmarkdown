@@ -62,9 +62,9 @@ Coffee break between 15:30 - 16:00.
 
 #### > 05 - [Troubleshooting (the challenging bits)](../../materials/05-troubleshooting/05-troubleshooting.pdf)
 
-Write robust code  
-Use debugging tools  
-Teach common errors  
+`r emo::ji("woman_teacher")` Teach common errors  
+`r emo::ji("climbing_woman")` Write robust code  
+`r emo::ji("bug")` Use debugging tools  
 `r emo::ji("triangular_flag_on_post")` Debug apps with common student mistakes
 
 #### > 06 - Teaching demo

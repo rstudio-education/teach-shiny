@@ -1,7 +1,7 @@
 ---
 title: Agenda
 author: ''
-date: "2019-01-16"
+date: "2019-01-18"
 slug: workshop
 categories: []
 tags: []
@@ -62,9 +62,9 @@ Coffee break between 15:30 - 16:00.
 
 #### > 05 - [Troubleshooting (the challenging bits)](../../materials/05-troubleshooting/05-troubleshooting.pdf)
 
-Write robust code  
-Use debugging tools  
-Teach common errors  
+👩‍🏫 Teach common errors  
+🧗‍♀️ Write robust code  
+🐛 Use debugging tools  
 🚩 Debug apps with common student mistakes
 
 #### > 06 - Teaching demo
