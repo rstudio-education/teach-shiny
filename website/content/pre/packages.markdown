@@ -1,7 +1,7 @@
 ---
 title: Install R packages
 author: ''
-date: "2019-01-15"
+date: "2019-02-18"
 slug: packages
 categories: []
 tags: []

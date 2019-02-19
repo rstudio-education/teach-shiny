@@ -1,7 +1,7 @@
 ---
 title: Agenda
 author: ''
-date: "2019-01-18"
+date: "2019-02-18"
 slug: workshop
 categories: []
 tags: []
